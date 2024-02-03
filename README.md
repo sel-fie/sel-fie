@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sel-fie
-- 👀 I’m interested in game prgramming
+- 👀 I’m interested in game programming
 - 🌱 I’m currently learning java
 - 📫 How to reach me: biekersofie@gmail.com
 - 😄 Pronouns: she/her
